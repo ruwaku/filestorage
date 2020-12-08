@@ -9,7 +9,7 @@
 	font-family: 'Nexon Lv1 Gothic';
 	font-style: normal;
 	font-weight: 400;
-	src: local('NEXON Lv1 Gothic'), local('넥슨Lv1고딕'), url('https://cdn.jsdelivr.net/gh/ruwaku/filestorage@main/Nexon_Lv1_Gothic_OTF/Light.woff') format('woff');
+	src: local('NEXON Lv1 Gothic'), local('넥슨Lv1고딕'), url('https://cdn.jsdelivr.net/gh/ruwaku/filestorage@main/Nexon_Lv1_Gothic_OTF/Regular.woff') format('woff');
 }
 @font-face {
 	font-family: 'Nexon Lv1 Gothic';
