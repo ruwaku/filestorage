@@ -1,0 +1,19 @@
+@charset "utf-8";
+@font-face {
+	font-family: 'Nexon Lv1 Gothic';
+	font-style: normal;
+	font-weight: 300;
+	src: local('NEXON Lv1 Gothic Light'), local('넥슨Lv1고딕 Light'), url('https://cdn.jsdelivr.net/gh/ruwaku/filestorage@main/Nexon_Lv1_Gothic_OTF/Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'Nexon Lv1 Gothic';
+	font-style: normal;
+	font-weight: 400;
+	src: local('NEXON Lv1 Gothic'), local('넥슨Lv1고딕'), url('https://cdn.jsdelivr.net/gh/ruwaku/filestorage@main/Nexon_Lv1_Gothic_OTF/Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'Nexon Lv1 Gothic';
+	font-style: normal;
+	font-weight: 700;
+	src: local('NEXON Lv1 Gothic Bold'), local('넥슨Lv1고딕 Bold'),	url('https://cdn.jsdelivr.net/gh/ruwaku/filestorage@main/Nexon_Lv1_Gothic_OTF/Bold.woff') format('woff');
+}
